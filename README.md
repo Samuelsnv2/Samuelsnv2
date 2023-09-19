@@ -15,5 +15,5 @@ I'm a Computer Science undergraduate student at UFMG with a strong passion for t
 </div>
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/samuek-s-n-viana](https://www.linkedin.com/in/samuel-s-n-viana/)](https://www.linkedin.com/in/samuel-s-n-viana/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuelsnv_/)
+[![Email Badge](https://img.shields.io/badge/-Email-d44638?style=flat&logo=Gmail&logoColor=white&link=mailto:gegenbarcelos@gmail.com)](mailto:samuelsnviana@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-s-n-viana/)](https://www.linkedin.com/in/samuel-s-n-viana/)
