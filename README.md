@@ -1,4 +1,4 @@
-# Hello! 👋 I am Samuel Viana
+# Samuel Viana
 
 ### About me
 I'm a Computer Science undergraduate student at UFMG with a strong passion for the fields of Artificial Intelligence and Data Science. I'm constantly learning and experimenting with innovative solutions. Excited to collaborate and contribute to exciting projects that push the boundaries of what's possible in the world of computing.
