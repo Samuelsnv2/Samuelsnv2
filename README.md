@@ -12,6 +12,9 @@ I'm a Computer Science undergraduate student at UFMG with a strong passion for t
   <img align="center" alt="Samuel-Cpp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Samuel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Samuel-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" >
+  <img align="center" alt="Samuel-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" >
+  <img align="center" alt="Samuel-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" >
+  <img align="center" alt="Samuel-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" >
 </div>
 
 ---
